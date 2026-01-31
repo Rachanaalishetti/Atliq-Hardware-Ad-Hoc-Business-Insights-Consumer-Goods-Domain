@@ -62,10 +62,5 @@ To solve **10 ad hoc management questions** using SQL and clearly communicate in
    - Accessories & Peripherals → Mostly Mice  
    - PC → Mostly Personal Laptops  
 
----
-
-## 📊 Presentation
-🔗 **Project Presentation:**  
-👉 [View Presentation](file:///C:/Users/racha/Downloads/Ad_Hoc_presentation.pdf)
 
 
