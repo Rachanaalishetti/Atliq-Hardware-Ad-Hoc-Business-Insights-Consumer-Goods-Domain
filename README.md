@@ -1,0 +1,1 @@
+# Atliq-Hardware-Ad-Hoc-Business-Insights-Consumer-Goods-Domain
