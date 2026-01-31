@@ -134,3 +134,4 @@ with cte as(
 cte2  as (select *,DENSE_RANK() OVER ( partition by division ORDER BY total_sold_quantity desc ) as rank_order from cte )
 select * from cte2 where rank_order<=3;
 
+
