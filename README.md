@@ -60,7 +60,10 @@ To solve **10 ad hoc management questions** using SQL and clearly communicate in
 10. **Top Products by Division (FY2021)** –  
    - Network & Storage → Mostly USB/SSD drives  
    - Accessories & Peripherals → Mostly Mice  
-   - PC → Mostly Personal Laptops  
+   - PC → Mostly Personal Laptops
+   - 
+10. **Presentation link** –  (https://bit.ly/3O6BPle)
+
 
 
 
